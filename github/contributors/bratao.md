@@ -98,9 +98,9 @@ mark both statements:
 
 | Field                          | Entry                |
 |------------------------------- | -------------------- |
-| Name                           | Helio Machado        |
+| Name                           |  Bruno Souza Cabral  |
 | Company name (if applicable)   |                      |
 | Title or role (if applicable)  |                      |
-| Date                           | 2021-02-03           |
-| GitHub username                | 0x2b3bfa0            |
+| Date                           | 24/12/2020           |
+| GitHub username                |  bratao              |
 | Website (optional)             |                      |

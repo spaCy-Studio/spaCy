@@ -98,9 +98,9 @@ mark both statements:
 
 | Field                          | Entry                |
 |------------------------------- | -------------------- |
-| Name                           | Helio Machado        |
+| Name                           | Amit Chaudhary                     |
 | Company name (if applicable)   |                      |
 | Title or role (if applicable)  |                      |
-| Date                           | 2021-02-03           |
-| GitHub username                | 0x2b3bfa0            |
-| Website (optional)             |                      |
+| Date                           |  April 29, 2019                    |
+| GitHub username                |  amitness      |
+| Website (optional)             |  https://amitness.com                    |

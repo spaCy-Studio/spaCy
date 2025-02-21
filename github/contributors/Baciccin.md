@@ -87,7 +87,7 @@ U.S. Federal law. Any choice of law rules will not apply.
 7. Please place an “x” on one of the applicable statement below. Please do NOT
 mark both statements:
 
-    * [X] I am signing on behalf of myself as an individual and no other person
+    * [x] I am signing on behalf of myself as an individual and no other person
     or entity, including my employer, has or will have rights with respect to my
     contributions.
 
@@ -96,11 +96,11 @@ mark both statements:
 
 ## Contributor Details
 
-| Field                          | Entry                |
-|------------------------------- | -------------------- |
-| Name                           | Helio Machado        |
-| Company name (if applicable)   |                      |
-| Title or role (if applicable)  |                      |
-| Date                           | 2021-02-03           |
-| GitHub username                | 0x2b3bfa0            |
-| Website (optional)             |                      |
+| Field                          | Entry                    |
+|------------------------------- | ------------------------ |
+| Name                           | Giovanni Battista Parodi |
+| Company name (if applicable)   |                          |
+| Title or role (if applicable)  |                          |
+| Date                           | 2020-03-19               |
+| GitHub username                | Baciccin                 |
+| Website (optional)             |                          |

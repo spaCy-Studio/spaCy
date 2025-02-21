@@ -5,7 +5,7 @@ This spaCy Contributor Agreement (**"SCA"**) is based on the
 The SCA applies to any contribution that you make to any product or project
 managed by us (the **"project"**), and sets out the intellectual property rights
 you grant to us in the contributed materials. The term **"us"** shall mean
-[ExplosionAI GmbH](https://explosion.ai/legal). The term
+[ExplosionAI UG (haftungsbeschränkt)](https://explosion.ai/legal). The term
 **"you"** shall mean the person or entity identified below.
 
 If you agree to be bound by these terms, fill in the information requested
@@ -87,7 +87,7 @@ U.S. Federal law. Any choice of law rules will not apply.
 7. Please place an “x” on one of the applicable statement below. Please do NOT
 mark both statements:
 
-    * [X] I am signing on behalf of myself as an individual and no other person
+    * [x] I am signing on behalf of myself as an individual and no other person
     or entity, including my employer, has or will have rights with respect to my
     contributions.
 
@@ -98,9 +98,9 @@ mark both statements:
 
 | Field                          | Entry                |
 |------------------------------- | -------------------- |
-| Name                           | Helio Machado        |
+| Name                           | Ansgar Tümmers       |
 | Company name (if applicable)   |                      |
 | Title or role (if applicable)  |                      |
-| Date                           | 2021-02-03           |
-| GitHub username                | 0x2b3bfa0            |
+| Date                           | 2018-05-26           |
+| GitHub username                | ansgar-t             |
 | Website (optional)             |                      |

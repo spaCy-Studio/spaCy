@@ -98,9 +98,9 @@ mark both statements:
 
 | Field                          | Entry                |
 |------------------------------- | -------------------- |
-| Name                           | Helio Machado        |
+| Name                           | Patrick Hogan        |
 | Company name (if applicable)   |                      |
 | Title or role (if applicable)  |                      |
-| Date                           | 2021-02-03           |
-| GitHub username                | 0x2b3bfa0            |
+| Date                           | 7/7/2019             |
+| GitHub username                | askhogan@gmail.com   |
 | Website (optional)             |                      |

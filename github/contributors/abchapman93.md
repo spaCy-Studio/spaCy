@@ -98,9 +98,9 @@ mark both statements:
 
 | Field                          | Entry                |
 |------------------------------- | -------------------- |
-| Name                           | Helio Machado        |
+| Name                           | Alec Chapman         |
 | Company name (if applicable)   |                      |
 | Title or role (if applicable)  |                      |
-| Date                           | 2021-02-03           |
-| GitHub username                | 0x2b3bfa0            |
+| Date                           | 7/17/2020            |
+| GitHub username                | abchapman93          |
 | Website (optional)             |                      |

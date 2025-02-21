@@ -87,20 +87,20 @@ U.S. Federal law. Any choice of law rules will not apply.
 7. Please place an “x” on one of the applicable statement below. Please do NOT
 mark both statements:
 
-    * [X] I am signing on behalf of myself as an individual and no other person
+    * [x] I am signing on behalf of myself as an individual and no other person
     or entity, including my employer, has or will have rights with respect to my
     contributions.
 
-    * [ ] I am signing on behalf of my employer or a legal entity and I have the
+    * [] I am signing on behalf of my employer or a legal entity and I have the
     actual authority to contractually bind that entity.
 
 ## Contributor Details
 
 | Field                          | Entry                |
 |------------------------------- | -------------------- |
-| Name                           | Helio Machado        |
+| Name                           | Andrei-Marius Avram       |
 | Company name (if applicable)   |                      |
 | Title or role (if applicable)  |                      |
-| Date                           | 2021-02-03           |
-| GitHub username                | 0x2b3bfa0            |
+| Date                           | 20/08/2019         |
+| GitHub username                | avramandrei              |
 | Website (optional)             |                      |

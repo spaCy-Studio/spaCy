@@ -98,9 +98,9 @@ mark both statements:
 
 | Field                          | Entry                |
 |------------------------------- | -------------------- |
-| Name                           | Helio Machado        |
+| Name                           | Baltazar Bieniek     |
 | Company name (if applicable)   |                      |
 | Title or role (if applicable)  |                      |
-| Date                           | 2021-02-03           |
-| GitHub username                | 0x2b3bfa0            |
-| Website (optional)             |                      |
+| Date                           | 2021.08.19           |
+| GitHub username                | bbieniek             |
+| Website (optional)             | https://baltazar.bieniek.org.pl/                     |
