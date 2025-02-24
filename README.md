@@ -19,6 +19,7 @@ open-source software, released under the
 💫 **Version 3.8 out now!**
 [Check out the release notes here.](https://github.com/explosion/spaCy/releases)
 
+[![X](https://img.shields.io/badge/-@spaCy_ai-000000?logo=x&logoColor=white&labelColor=555555)](https://x.com/spaCy_ai)
 [![tests](https://github.com/explosion/spaCy/actions/workflows/tests.yml/badge.svg)](https://github.com/explosion/spaCy/actions/workflows/tests.yml)
 [![Current Release Version](https://img.shields.io/github/release/explosion/spacy.svg?style=flat-square&logo=github)](https://github.com/explosion/spaCy/releases)
 [![pypi Version](https://img.shields.io/pypi/v/spacy.svg?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/spacy/)
